@@ -4,15 +4,6 @@
 #EXTINF:"https://cdn4.xaxa.live/mxkeys/hbopop.json"
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd//cdn4.xaxa.live/mxkeys/hbopop.json
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" tvg-group="DEPORTES", FOX SPORTS MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsmx.json
-https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsports2.json
-https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
-
 
 q
+https://github.com/juliocajas/CLAROTV/blob/main/22CLLARO.m3u
