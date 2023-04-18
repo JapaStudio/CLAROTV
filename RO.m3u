@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1, HBOdaea
+#EXTINF:-1, HBO Xtrememmmmm
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/deb/v2?id=w!161lmjkb9s&amp;dn=TC&amp;cc=5&amp;r=&amp;pu=https%3A%2F%2Fwww.vertvcable.com%2Funiversal-premiere-en-vivo%2F
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
