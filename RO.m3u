@@ -1,35 +1,16 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-
-#EXTINF:-1, HBO
+#EXTINF:-1, XXXXX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
-http://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://youradexchange.com/ut/hb.php?cb=0.906591509020281
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 
-#EXTINF:-1, HBO Xtreme
+
+#EXTINF:-1, XXXX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
-http://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
-
-#EXTINF:-1, HBO Pop
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
-http://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",STAR SERIES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGEtNDM4MjYwYWQ0OGVj
-https://d1dog4zvoxx3yf.cloudfront.net/out/u/dash/FOX-1-SERIES-HD/default.mpd
-
-#EXTINF:-1, Canal Izzi
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://youradexchange.com/ut/hb.php?s=FVS6DgLugmkrlMDDG2Dc%2BIpLN%2B1%2FvbaQ4BCeGpEZdf9EORO77QOUTyKm5qiKnPsk%2F0HGOMNFMsaWBuYsMGm2QBBrYIKn5LctMI6rtMBBDRzHuLWXxkHXZuMl5E9qUKl1GpWDP0Y%3D
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 
 #EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
