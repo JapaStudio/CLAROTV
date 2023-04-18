@@ -1,15 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-#EXTINF:-1, XXXXX
+#EXTINF:-1, HBOwewewe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://youradexchange.com/ut/hb.php?cb=0.906591509020281
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-
-
-#EXTINF:-1, XXXX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://youradexchange.com/ut/hb.php?s=FVS6DgLugmkrlMDDG2Dc%2BIpLN%2B1%2FvbaQ4BCeGpEZdf9EORO77QOUTyKm5qiKnPsk%2F0HGOMNFMsaWBuYsMGm2QBBrYIKn5LctMI6rtMBBDRzHuLWXxkHXZuMl5E9qUKl1GpWDP0Y%3D
+#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/deb/v2?id=w!161lmjkb9s&amp;dn=TC&amp;cc=5&amp;r=&amp;pu=https%3A%2F%2Fwww.vertvcable.com%2Funiversal-premiere-en-vivo%2F
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 
 #EXTINF:-1, Azteca Uno
