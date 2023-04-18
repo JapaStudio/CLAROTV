@@ -4,7 +4,7 @@
 #EXTINF:-1, HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv:8063/?deviceId=1vfvg0w1psxg
 http://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 
