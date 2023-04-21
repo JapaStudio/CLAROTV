@@ -1,5 +1,11 @@
 #EXTM3U url-tvg="https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://acortar.link/mlZWy8
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1, A&E8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
