@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-referrer=https://1061-abc.dtvott.com/
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTSsaaa
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1, A&E8
