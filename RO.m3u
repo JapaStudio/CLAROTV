@@ -1,21 +1,25 @@
 
 #EXTM3U
-#EXTINF:-abcd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AAADBHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAuTkAgAAAQABANoCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgByAFoAMQBXAHUARgBhAHgAQgBqAEsAaQB3AHIAcwBMADIAMgBaAFYAdQBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AGYAaABzAHYASABXADMAOQBmADgAQQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGQAdAB2AGcAbwAuAGwAaQB2AGUALgBvAHQAdAAuAGkAcgBkAGUAdABvAC4AYwBvAG0ALwBsAGkAYwBlAG4AcwBlAFMAZQByAHYAZQByAC8AcABsAGEAeQByAGUAYQBkAHkALwB2ADEALwBkAHQAdgBnAG8ALwBsAGkAYwBlAG4AcwBlAD8AYwBvAG4AdABlAG4AdABJAGQAPQBMAGkAdgBlAF8AMQAyADEAMAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==
-https://1210-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTM3U
-#EXTINF:-abcd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISELhWna2xVjIGosK7C9tmVbg=
+#EXTINF:-1, asa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=https://www.vertvcable.com
+#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com/?deviceId=MvNeJi6zR615kc6WIE9HViSYeWiwR4hHR3JHjp3ztmO4wAoPqDxFlg==
 https://1210-vos.dtvott.com/DASH/manifest.mpd
+https://www.vertvcable.com
+
+#EXTINF:-1, awaw
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1193-vos.dtvott.com?deviceId=MvNeJi6zR615kc6WIE9HViSYeWiwR4hHR3JHjp3ztmO4wAoPqDxFlg==
+https://1193-vos.dtvott.com/DASH/manifest.mpd
+
 
 #EXTINF:-1, Canal Izzi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd?controls=0&amp;start=5&amp;autoplay=1&amp;mute=1&amp;loop=1
+#KODIPROP:inputstream.adaptive.license_key=d=MvNeJi6zR615kc6WIE9HViSYeWiwR4hHR3JHjp3ztmO4wAoPqDxFlg==
+https://1193-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
