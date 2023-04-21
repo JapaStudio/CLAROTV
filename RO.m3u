@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd?controls=0&amp;start=5&amp;autoplay=1&amp;mute=1&amp;loop=1
 
 #EXTINF:-1, Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -631,7 +631,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd?controls=0&amp;start=5&amp;autoplay=1&amp;mute=1&amp;loop=1
 
 #EXTINF:-1, HBO Pop
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
