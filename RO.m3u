@@ -3,25 +3,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76574be83235661c0901cd33bc3f0112&uuid=39ea67ec-8638-497e-9c74-397208e56f1d%3A1%3A1
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://improvebeams.com/sbar.json?=76574be83235661c0901cd33bc3f0112&uuid=39ea67ec-8638-497e-9c74-397208e56f1d%3A1%3A1
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/keys/goltvec.json
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ssl.p.jwpcdn.com/player/v/8.26.0/translations/es.json
+#KODIPROP:inputstream.adaptive.license_key=1134-vos.dtvott.com?key=76574be83235661c0901cd33bc3f0112&uuid
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
