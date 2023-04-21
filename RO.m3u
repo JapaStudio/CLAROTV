@@ -1,30 +1,9 @@
 
 #EXTM3U
-#EXTINF:-1, HBO 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
-
-#EXTINF:-1, HBO 2BN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=eGDB2EujEeKZwiIACp8kUw
-https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
-
-#EXTINF:-1, HBO 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/SPC-HD/default.mpd
-
-#EXTINF:-1, HBO 2v
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/FOX-1-SERIES-HD/default.mpd
-
+#EXTINF:-abcd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universal.json
+https://1210-vos.dtvott.com/DASH/manifest.mpd
 
 
 #EXTINF:-1, Canal Izzi
