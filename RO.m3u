@@ -4,15 +4,36 @@
 #EXTINF:-1, asa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=https://www.vertvcable.com
-#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com/?deviceId=MvNeJi6zR615kc6WIE9HViSYeWiwR4hHR3JHjp3ztmO4wAoPqDxFlg==
+#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com/?evFS14UsiuqMMw8wvO5-ReuZTuP5OChRkCoPNe8REXY-27lUrLe8Pg==
 https://1210-vos.dtvott.com/DASH/manifest.mpd
 https://www.vertvcable.com
+
+#EXTINF:-1, asa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com/?evFS14UsiuqMMw8wvO5-ReuZTuP5OChRkCoPNe8REXY-27lUrLe8Pg==
+https://1210-vos.dtvott.com/DASH/manifest.mpd
+https://www.vertvcable.com
+
+#EXTINF:-1, asa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=https://www.vertvcable.com
+#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com?evFS14UsiuqMMw8wvO5-ReuZTuP5OChRkCoPNe8REXY-27lUrLe8Pg==
+https://1210-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1, awaw
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=1193-vos.dtvott.com?deviceId=MvNeJi6zR615kc6WIE9HViSYeWiwR4hHR3JHjp3ztmO4wAoPqDxFlg==
 https://1193-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1, asa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1210-vos.dtvott.com?evFS14UsiuqMMw8wvO5-ReuZTuP5OChRkCoPNe8REXY-27lUrLe8Pg==
+https://1210-vos.dtvott.com/DASH/manifest.mpd
+
+
 
 
 #EXTINF:-1, aaa
