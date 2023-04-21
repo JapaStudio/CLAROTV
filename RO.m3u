@@ -10,7 +10,16 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key={type: 'appId', id: '6ea80985-5bd9-4626-b24c-892a7376eb6d'}id:"6ea80985-5bd9-4626-b24c-892a7376eb6d"type: "appId"
-https://edge1-zapopan.izzigo.tv/live3/out/u/dash/AXN-HD/default.mpd
+https://1019-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+#EXTINF:-1, AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://youradexchange.com/ut/hb.php?cb=0.11369811080886838
+https://1019-vos.dtvott.com/DASH/manifest.mpd
+
 
 #EXTINF:-1, HBO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
