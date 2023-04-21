@@ -1,15 +1,7 @@
+#EXTM3U url-tvg="https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+
 
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 27 solo OTT", BLACKGHOST 27
-http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 27 solo OTT",  http://paypal.me/blackghost
-http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
- 
- 
- 
- 
- 
  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -47,13 +39,7 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
  
  
- 
- 
- 
- 
- 
- 
- 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -99,62 +85,6 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
  
  
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
-https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -164,6 +94,7 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MLB NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -173,6 +104,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MILAN TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -182,6 +114,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ZONA DAZN
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -191,6 +124,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NFL NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -200,6 +134,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -209,6 +144,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -218,6 +154,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EVENTOS TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -227,6 +164,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN LFCTV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -236,6 +174,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NBA TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -245,6 +184,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN REDBULL TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -254,6 +194,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MOTO GP
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -263,6 +204,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DANZ LA LIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -272,6 +214,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -281,6 +224,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -290,67 +234,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN F1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
-https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"aW3nqCJX3bUe0_3sBLbsiw" group-title="Lista 27 solo OTT", "kid":"NNYrIu_GP2WerFuoIomILQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS
-https://v1.solodeportes.xyz/streams/1250/manifest.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", M F1 TV
-https://dkteam.darkiptv.com/darktv/lam.php?id=0205&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", F1 Tv
-https://v3.playerlatino.live/stream/m3u8/192
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL 10 CANC\u00daN
-https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/chunklist_w1577641162.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", TELEMAX
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MEXIQUENSE
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", ADN40
-http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MULTIMEDIOS
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
 #EXTINF:-1 group-title="Lista 27 solo OTT", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -362,6 +247,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MTV
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -371,6 +257,7 @@ https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN EXTRA
 https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -380,6 +267,7 @@ https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 4
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -389,6 +277,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -398,6 +287,7 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3 MX
 https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -407,6 +297,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -416,6 +307,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2 MX
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -425,6 +317,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN
 https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -434,6 +327,7 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ENCUENTRO
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -443,6 +337,7 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", LA NACION +
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -452,6 +347,7 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MAGAZINE
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -461,6 +357,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NET TV
 https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -470,6 +367,7 @@ https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -479,6 +377,7 @@ https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TRUTV
 https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -488,6 +387,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CRONICA TV
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -497,6 +397,7 @@ https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TN
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -506,6 +407,7 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA TV
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -515,6 +417,7 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TC TV
 https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -524,6 +427,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", OROMAR
 https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -533,6 +437,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ECUAVISA
 https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -542,6 +447,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", RTS
 https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -551,6 +457,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NTN24
 https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -560,6 +467,7 @@ https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CARTOON NETWORK
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -569,6 +477,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CINEMAX
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -578,6 +487,7 @@ https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", STAR CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -587,6 +497,7 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", STUDIO UNIVERSAL
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -596,6 +507,7 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TMC
 https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -605,6 +517,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TELEMUNDO
 https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -614,6 +527,7 @@ https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemund
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TLC
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -623,6 +537,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -632,6 +547,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL TV
 https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -641,6 +557,7 @@ https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -650,6 +567,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", EUROPA EUROPA
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -659,8 +577,8 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", BABY TV
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", ESPN PREMIUM
-https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -672,6 +590,7 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 group-title="Lista 27 solo OTT", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -681,6 +600,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS PLUS
 https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1251
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -690,6 +610,7 @@ https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1251
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", EL CANAL DEL FUTBOL
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -699,6 +620,7 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -708,6 +630,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -717,6 +640,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FX
 https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -726,6 +650,7 @@ https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 3
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -735,6 +660,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 2
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -744,6 +670,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOOD NETWORK
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -753,6 +680,7 @@ https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FILM & ARTS
 https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -762,6 +690,7 @@ https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.m
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", QUIERO
 https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -771,6 +700,7 @@ https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MUCH MUSIC
 https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -780,6 +710,7 @@ https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", VOLVER
 https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -789,6 +720,7 @@ https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -798,6 +730,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", LIFETIME
 https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -807,6 +740,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TBS
 https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -816,6 +750,7 @@ https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SYFY
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -825,6 +760,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -834,6 +770,7 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 9
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -843,6 +780,7 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 13
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -852,6 +790,7 @@ https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TELEFE
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -861,6 +800,7 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -870,6 +810,7 @@ https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT
 https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -879,6 +820,7 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SONY
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -888,6 +830,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AXN
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -897,6 +840,7 @@ https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", A&E
 https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -906,6 +850,7 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NICKELODEON
 https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -915,6 +860,7 @@ https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMC
 https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -924,6 +870,7 @@ https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SPACE
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -933,6 +880,7 @@ https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HGTV
 https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -942,6 +890,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NATGEO
 https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -951,6 +900,7 @@ https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", H2
 https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -960,6 +910,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HISTORY
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -969,6 +920,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ANIMAL PLANET
 https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -978,6 +930,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", COMEDY CENTRAL
 https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -987,6 +940,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CINECANAL
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -996,6 +950,7 @@ https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANA
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1005,6 +960,7 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY JR
 https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1014,6 +970,7 @@ https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY XD
 https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1023,6 +980,7 @@ https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY HOME & HEALT
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1032,6 +990,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY KIDS
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1041,6 +1000,7 @@ https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", INVESTIGATION DISCOVERY
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1050,6 +1010,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TURBO
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1059,6 +1020,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY WORLD
 https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1068,6 +1030,7 @@ https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY SCIENCE
 https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1077,6 +1040,7 @@ https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIs
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY CHANNEL
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1086,6 +1050,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", BOOMERANG
 https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1095,6 +1060,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", PARAMOUNT
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1104,6 +1070,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", A3 SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1113,6 +1080,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1122,6 +1090,7 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS MX
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1131,6 +1100,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NBA TV
 https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1140,8 +1110,9 @@ https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NATGEO KIDS
 https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", HBO MUNDI
-https://cdn.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1151,6 +1122,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HBO SIGNATURE
 https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1160,6 +1132,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HBO PLUS
 https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1169,6 +1142,7 @@ https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HBO FAMILY
 https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1178,6 +1152,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HBO 2
 https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1187,6 +1162,7 @@ https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HBO
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1196,6 +1172,7 @@ https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL REALITY
 https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1205,6 +1182,7 @@ https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE (OESTE)
 https://dtvott-abc.akamaized.net/dash_live_1258/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1214,6 +1192,7 @@ https://dtvott-abc.akamaized.net/dash_live_1258/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE (ESTE)
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1223,6 +1202,7 @@ https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CRIME (OESTE)
 https://dtvott-abc.akamaized.net/dash_live_1257/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1232,6 +1212,7 @@ https://dtvott-abc.akamaized.net/dash_live_1257/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CRIME (ESTE)
 https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1241,6 +1222,7 @@ https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL COMEDY
 https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1250,6 +1232,7 @@ https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL CINEMA
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1259,6 +1242,7 @@ https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS FIGHT
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1268,6 +1252,7 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS PLUS
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1277,6 +1262,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1286,6 +1272,7 @@ https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS PE
 https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1295,6 +1282,7 @@ https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS UY
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1304,6 +1292,7 @@ https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS COS
 https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1313,6 +1302,7 @@ https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS EC
 https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1322,6 +1312,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1337,37 +1328,10 @@ https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
  
  
  
-#EXTINF:-1 group-title="Lista 27 solo OTT", LOS SIMPSON 24/7 #2
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", 24/7 PELICULAS ACCION
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE EN FAMILIA #3
-https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", COMO DICE EL DICHO #3
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CLASE 406 #3
-https://linear-322.frequency.stream/322/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", 40 Y 20 #3
-https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA PROMESA #3
-https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CUIDADO CON EL ANGEL #3
-https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA FAMILIA P. LUCHE #3
-https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MI GORDA BELLA #3
-https://linear-334.frequency.stream/334/hls/master/playlist.m3u
-AnasorTEXT, um lugar para salvar e compartilhar textos e codigos.
 
-Entrar ou Cadastre-se para editar e acomparnhar os seus pastes.
 
-NOVO TEXTO BRUTO
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 27 solo OTT", BLACKGHOST 27
-http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 27 solo OTT",  http://paypal.me/blackghost
-http://bgapp.live/TV&f=&token=blaaackghost&fi=.m3u8
+
 
 
 
@@ -1469,51 +1433,6 @@ https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
-https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -1527,6 +1446,7 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MLB NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1536,6 +1456,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MILAN TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1545,6 +1466,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ZONA DAZN
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1554,6 +1476,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NFL NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1563,6 +1486,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1572,6 +1496,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1581,6 +1506,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EVENTOS TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1590,6 +1516,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN LFCTV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1599,6 +1526,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NBA TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1608,6 +1536,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN REDBULL TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1617,6 +1546,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MOTO GP
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1626,6 +1556,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DANZ LA LIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1635,6 +1566,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1644,6 +1576,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1653,44 +1586,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DAZN F1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA SELECCION
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUTBOL PARA FANS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", MOTORVISIONTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", FUEL TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", PARAMOUNT+ PRESENTA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", NICK CLASICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE CRIMEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE ED SULLIVAN SHOW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HECHIZADA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", THE NIGHT SHIFT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", EMPE\u00d1OS A LO BESTIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", GRAN HERMANO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", HELL'S KITCHEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Lista 27 solo OTT", ETC Chile
-https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1700,20 +1596,8 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS 
 https://v1.solodeportes.xyz/streams/1250/manifest.mpd
-#EXTINF:-1 group-title="Lista 27 solo OTT", M F1 TV
-https://dkteam.darkiptv.com/darktv/lam.php?id=0205&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", F1 Tv
-https://v3.playerlatino.live/stream/m3u8/192
-#EXTINF:-1 group-title="Lista 27 solo OTT", CANAL 10 CANC\u00daN
-https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/chunklist_w1577641162.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", TELEMAX
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MEXIQUENSE
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", ADN40
-http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MULTIMEDIOS
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
 #EXTINF:-1 group-title="Lista 27 solo OTT", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1725,6 +1609,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MTV
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1734,6 +1619,7 @@ https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN EXTRA
 https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1743,6 +1629,7 @@ https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 4
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1752,6 +1639,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1761,6 +1649,7 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 3 MX
 https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1770,6 +1659,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1779,6 +1669,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN 2 MX
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1788,6 +1679,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ESPN
 https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1797,6 +1689,7 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ENCUENTRO
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1806,6 +1699,7 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", LA NACION +
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1815,6 +1709,7 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MAGAZINE
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1824,6 +1719,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NET TV
 https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1833,6 +1729,7 @@ https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1842,6 +1739,7 @@ https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TRUTV
 https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1851,6 +1749,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CRONICA TV
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1860,6 +1759,7 @@ https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TN
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1869,6 +1769,7 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMERICA TV
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1878,6 +1779,7 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TC TV
 https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1887,6 +1789,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", OROMAR
 https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1896,6 +1799,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ECUAVISA
 https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1905,6 +1809,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", RTS
 https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1914,6 +1819,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1186/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NTN24
 https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1923,6 +1829,7 @@ https://dtvott-abc.akamaized.net/dash_live_1176/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CARTOON NETWORK
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1932,6 +1839,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CINEMAX
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1941,6 +1849,7 @@ https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", STAR CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1950,6 +1859,7 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", STUDIO UNIVERSAL
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1959,6 +1869,7 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TMC
 https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1968,6 +1879,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TELEMUNDO
 https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1977,6 +1889,7 @@ https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemund
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TLC
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1986,6 +1899,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1995,6 +1909,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", UNIVERSAL TV
 https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2004,6 +1919,7 @@ https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2013,6 +1929,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", EUROPA EUROPA
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2022,6 +1939,7 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", BABY TV
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
+
 #EXTINF:-1 group-title="Lista 27 solo OTT", ESPN PREMIUM
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2033,6 +1951,7 @@ https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FT
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", VTV PLUS
 https://1246-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 group-title="Lista 27 solo OTT", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2044,6 +1963,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", WIN SPORTS PLUS
 https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1251
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2053,6 +1973,7 @@ https://api1247.solodeportes.xyz/stream/manifest.mpd?id=1251
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", EL CANAL DEL FUTBOL
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2062,6 +1983,7 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2071,6 +1993,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2080,6 +2003,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FX
 https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2089,6 +2013,7 @@ https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 3
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2098,6 +2023,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOX SPORTS 2
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2107,6 +2033,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FOOD NETWORK
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2116,6 +2043,7 @@ https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", FILM & ARTS
 https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2125,6 +2053,7 @@ https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.m
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", QUIERO
 https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2134,6 +2063,7 @@ https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", MUCH MUSIC
 https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2143,6 +2073,7 @@ https://anbalancer.express.com.ar/live/c1eds/Much_Music/SA_DASH_cipix/Much_Music
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", VOLVER
 https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2152,6 +2083,7 @@ https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2161,6 +2093,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", LIFETIME
 https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2170,6 +2103,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TBS
 https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2179,6 +2113,7 @@ https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SYFY
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2188,6 +2123,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2197,6 +2133,7 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 9
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2206,6 +2143,7 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 13
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2215,6 +2153,7 @@ https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TELEFE
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2224,6 +2163,7 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2233,6 +2173,7 @@ https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", TNT
 https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2242,6 +2183,7 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SONY
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2251,6 +2193,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AXN
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2260,6 +2203,7 @@ https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", A&E
 https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2269,6 +2213,7 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NICKELODEON
 https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2278,6 +2223,7 @@ https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", AMC
 https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2287,6 +2233,7 @@ https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", SPACE
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2296,6 +2243,7 @@ https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HGTV
 https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2305,6 +2253,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", NATGEO
 https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2314,6 +2263,7 @@ https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", H2
 https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2323,6 +2273,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", HISTORY
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2332,6 +2283,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", ANIMAL PLANET
 https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2341,6 +2293,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", COMEDY CENTRAL
 https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2350,6 +2303,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", CINECANAL
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2359,6 +2313,7 @@ https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANA
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2368,6 +2323,7 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY JR
 https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2377,6 +2333,7 @@ https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISNEY XD
 https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2386,6 +2343,7 @@ https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY HOME & HEALT
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2395,6 +2353,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY KIDS
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2404,6 +2363,7 @@ https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", INVESTIGATION DISCOVERY
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2413,6 +2373,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY TURBO
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2422,6 +2383,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY WORLD
 https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2431,6 +2393,7 @@ https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY SCIENCE
 https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2440,6 +2403,7 @@ https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIs
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DISCOVERY CHANNEL
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2449,6 +2413,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", BOOMERANG
 https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2458,6 +2423,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", PARAMOUNT
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2698,28 +2664,3 @@ https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
 
 
-
-
-#EXTINF:-1 group-title="Lista 27 solo OTT", LOS SIMPSON 24/7 #2
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", 24/7 PELICULAS ACCION
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CINE EN FAMILIA #3
-https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", COMO DICE EL DICHO #3
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CLASE 406 #3
-https://linear-322.frequency.stream/322/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", 40 Y 20 #3
-https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA PROMESA #3
-https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", CUIDADO CON EL ANGEL #3
-https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", LA FAMILIA P. LUCHE #3
-https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lista 27 solo OTT", MI GORDA BELLA #3
-https://linear-334.frequency.stream/334/hls/master/playlist.m3u
- ou  para editar ou duplicar este paste.
-
-Copyright © 2023 AnasorTEXT. All rights reserved.Powered by Paste
