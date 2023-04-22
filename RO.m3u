@@ -18,11 +18,11 @@ https://1109-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://logo.iptveditor.com/animalplanet.png",_ANIMAL PLANET 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://logo.iptveditor.com/animalplanet.png",_ANIMAL PLANETaaaa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 #EXTINF:-1, asa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
