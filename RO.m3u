@@ -14,13 +14,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", AVTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", AVTVa
 #EXTVLCOPT:http-referrer=https://1246-vos.dtvott.com/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zVnrcRyKxO4L8MZvPpZ6nA","kid":"CyMwJDj_Mk2rLurKXqn1VA"}],"type":"temporary"}
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", AVTV
